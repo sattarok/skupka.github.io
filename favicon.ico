@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Home page</title>
+	<!-- SEO -->
+	<meta name="description" content="Skupka">
+	<meta name="keywords" content="Skupka">
+	<meta name="author" content="Shop">
+	<!-- favicon.ico -->
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+	<!-- bower CSS -->
+	<link rel="stylesheet" type="text/css" href="bower/normalize-css/normalize.css">
+	<!-- CSS -->
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<!-- modernizer -->
+	<script type="text/javascript" src="bower/modernizer/modernizr.js"></script>
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<!--[if lt IE 8]>
+		<p class="browsehappy">Вы используете <strong>устаревший</strong> браузер. Пожалуйста <a href="http://browsehappy.com">обновите</a> его</p>
+	<![endif]-->
+	
+	<div class="wrapper">
+		<header class="header">
+			<div class="container">
+				<div class="header__block">
+					<div class="header__logo">
+						<a href="#" class="logo">
+							<img src="img/logo.png" alt="" class="logo__image">
+						</a>
+					</div>
+					<div class="header__phone">
+						<div class="phone">
+							<p class="working__hours-text">
+								круглосуточно, без выходных
+							</p>
+							<p class="phone__number-text">
+								+7 985 002-01-09
+							</p>
+							<p class="pricing__min-text">
+								расчет цены за 1 мин.
+							</p>
+						</div>
+					</div>
+					<div class="header__menu">
+						<ul class="menu">
+							<li class="menu__item">
+								<a href="#" class="menu__link">
+									<span class="menu__link-text">Скупка</span>
+								</a>
+							</li>
+							<li class="menu__item">
+								<a href="#" class="menu__link">
+									<span class="menu__link-text">Оценка</span>
+								</a>
+							</li>
+							<li class="menu__item">
+								<a href="#" class="menu__link">
+									<span class="menu__link-text">Курьер</span>
+								</a>
+							</li>
+							<li class="menu__item">
+								<a href="#" class="menu__link">
+									<span class="menu__link-text">Контакты</span>
+								</a>
+							</li>
+						</ul>
+					</div>
+					<div class="header__sell">
+						<a href="#" class="sell">
+							<p class="sell__button">Продать</p>
+							<p class="sell__text">курьер бесплатно</p>
+						</a>
+					</div>
+				</div>
+			</div>
+		</header>
+
+		<div class="empty"></div>
+	</div>
+
+	<footer class="footer">
+		<div class="container">
+			<div class="footer__top">
+				<div class="footer__left">
+					<ul class="menu__footer">
+						<li class="menu__footer-item">
+							<a href="#" class="menu__link">
+								<span class="menu__link-text">Как узнать модель ноутбука?</span>
+							</a>
+						</li>
+						<li class="menu__footer-item">
+							<a href="#" class="menu__link">
+								<span class="menu__link-text">От чего зависит оценка ноутбука?</span>
+							</a>
+						</li>
+						<li class="menu__footer-item">
+							<a href="#" class="menu__link">
+								<span class="menu__link-text">От чего зависит цена монитора?</span>
+							</a>
+						</li>
+						<li class="menu__footer-item">
+							<a href="#" class="menu__link">
+								<span class="menu__link-text">Ссылка</span>
+							</a>
+						</li>
+						<li class="menu__footer-item">
+							<a href="#" class="menu__link">
+								<span class="menu__link-text">Ссылка</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+				<div class="footer__center">
+					<ul class="menu">
+						<li class="menu__footer-item">
+							<a href="#" class="menu__link">
+								<span class="menu__link-text">Оплата и доставка?</span>
+							</a>
+						</li>
+						<li class="menu__footer-item">
+							<a href="#" class="menu__link">
+								<span class="menu__link-text">Как продать ноутбук, пк</span>
+							</a>
+						</li>
+						<li class="menu__footer-item">
+							<a href="#" class="menu__link">
+								<span class="menu__link-text">Скупка неисправной электроники</span>
+							</a>
+						</li>
+						<li class="menu__footer-item">
+							<a href="#" class="menu__link">
+								<span class="menu__link-text">Ссылка 5</span>
+							</a>
+						</li>
+						<li class="menu__footer-item">
+							<a href="#" class="menu__link">
+								<span class="menu__link-text">Ссылка 6</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+				<div class="footer__right">
+					<ul class="menu">
+						<li class="menu__footer-item">
+							<a href="#" class="menu__link menu__link_call">
+								<span class="menu__link-text">+7 985 002-01-09</span>
+								<span class="menu__link-text menu__link_button">Заказать звонок</span>
+							</a>
+						</li>
+						<li class="menu__footer-item">
+							<a href="#" class="menu__link">
+								<span class="menu__link-text">Круглосуточно, без выходных</span>
+							</a>
+						</li>
+						<li class="menu__footer-item">
+							<a href="#" class="menu__link menu__link_iconed">
+								<span class="menu__link-icon">
+									<img src="img/icon-wv.png" alt="" class="menu__link-icon_image">
+								</span>
+								<span class="menu__link-text">Доступны в WhatsApp и Viber</span>
+							</a>
+						</li>
+						<li class="menu__footer-item">
+							<a href="#" class="menu__link">
+								<span class="menu__link-text">Москва, Фестивальная улица, 51</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="footer__bottom">
+				<div class="footer__copyright">
+					© 2015  Выкуп компьютерной техники в Москве, Мытищах, Пушкине, Королеве, Химках, Балашихе
+				</div>
+			</div>
+		</div>
+	</footer>
+
+	<script type="text/javascript" src="bower/jquery/dist/jquery.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+</body>
+</html>
